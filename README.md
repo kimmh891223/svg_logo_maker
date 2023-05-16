@@ -13,3 +13,10 @@
 
 ## Contributors
 - kimmh891223
+
+## Code Borrowed
+- ./lib/circle.test.js
+- ./lib/triangle.test.js
+- ./lib/square.test.js
+- ./lib/shapes.test.js
+- The code from tests above are borrowed from ChatGPT because it was way beyond my level of knowledge and I am okay with being penalized for these tests.
