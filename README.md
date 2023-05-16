@@ -1,6 +1,6 @@
 # SVG Logo Maker
 ## Video URL
-- 
+- https://drive.google.com/file/d/1B7IqpMVBV56rEkIBOMNVF4_YgwZXNQpd/view
 ## Screenshot
 ![screenshot](https://github.com/kimmh891223/svg_logo_maker/assets/125617951/759949f1-5237-4558-871b-c31a3390b654)
 ![screenshot2](https://github.com/kimmh891223/svg_logo_maker/assets/125617951/963d9a7b-d3d7-4200-8435-5d37ec889280)
